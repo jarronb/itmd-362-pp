@@ -44,4 +44,5 @@ input:focus {
 span.warning {
   color: red;
   font-weight: bold;
+  width: inherit;
 }
