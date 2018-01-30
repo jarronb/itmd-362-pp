@@ -41,3 +41,7 @@ input[type=submit] {
 input:focus {
     background: #ccc;
 }
+span.warning {
+  color: red;
+  font-weight: bold;
+}
