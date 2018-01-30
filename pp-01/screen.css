@@ -26,4 +26,18 @@ label {
 li {
 padding-bottom: 1.222em; /* 22 / 18 = 1.222*/
 }
+input {
+  /* font-size: 1.125em; /* 18 / 16 = 1.125 */ */
+  padding:0 0.833em; /*5 / 18 = 0.277*/ /* 15 / 18 = 0.833*/
+  border: 0.277em none;
+  cursor: pointer;
+  border-radius: 0.277em;
+  width: 25vw;
+}
+input[type=submit] {
+    margin-left: 1.111em; /* 20 / 18 = 1.111*/
+    background: #7A7A7A;
+}
+input:focus {
+    background: #ccc;
 }
