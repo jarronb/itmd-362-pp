@@ -8,6 +8,7 @@ html {
   font-size: 1.125em; /* 18 / 16 = 1.125 */
   line-height: 1.222em; /* 22 / 18 = 1.222*/
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  background: #81CFE0;
 }
 body {
   /* padding-top: 1.222em; /* 22 / 18 = 1.222*/ */
