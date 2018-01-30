@@ -32,7 +32,7 @@ input {
   border: 0.277em none;
   cursor: pointer;
   border-radius: 0.277em;
-  width: 25vw;
+  width: 19.444em; /*330 / 18 = 19.444 */
 }
 input[type=submit] {
     margin-left: 1.111em; /* 20 / 18 = 1.111*/
