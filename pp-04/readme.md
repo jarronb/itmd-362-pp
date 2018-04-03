@@ -27,9 +27,6 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
 * HCI Guidline One (URL): https://material.io/guidelines/usability/accessibility.html#accessibility-style
 * How you implemented it in your sketch: The areas on the My IIT login page are 
   not designed for a touch friendly environment. The clickable items or the items
@@ -48,3 +45,12 @@ Small commits to your Production Problems repository that include:
   and adding a simple border will lure user's eyes towars the login area.
   Topic: Colors
   Sketch: 2
+
+* HCI Guidline Three (URL): https://material.io/guidelines/patterns/errors.html#errors-user-input-errors
+* How you implemented it in your sketch: IIT's error handling is poor and requires
+  a redirect to another page stating that there was an error which then sends you back to the
+  original page. I will first try to prevent the errors with proper hinting and labeling
+  of textfields. Then on the submit event I will handle error messages pertaining to each field.
+  The login button will be disabled until they edit their information.
+  Topic: Error handling
+  Sketch: 3,4
