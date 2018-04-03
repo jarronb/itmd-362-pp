@@ -28,9 +28,6 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
-
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
 * HCI Guidline One (URL): https://material.io/guidelines/usability/accessibility.html#accessibility-style
@@ -42,3 +39,12 @@ Small commits to your Production Problems repository that include:
   I also created a simple login button that will be at least 44px.
   Topic: Touch Targets
   Sketch: 1
+
+* HCI Guidline Two (URL): https://material.io/guidelines/style/color.html#color-color-system
+* How you implemented it in your sketch: My IIT's website lacks any true color correlations
+  indicate to a user where their eye's should be going. So adding simple color and a background can help user's
+  pin point the main focus of the page which is the login area and its inputs.
+  The background image can be the a blured out picture of Chicago thats on the website,
+  and adding a simple border will lure user's eyes towars the login area.
+  Topic: Colors
+  Sketch: 2
