@@ -27,11 +27,18 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
+* HCI Guidline One (URL): https://material.io/guidelines/usability/accessibility.html#accessibility-style
+* How you implemented it in your sketch: The areas on the My IIT login page are 
+  not designed for a touch friendly environment. The clickable items or the items
+  that need to be clicked are designed for a computer's mouse to navigate to the area
+  and click. The main purpose of the first page is to login to IIT's portal.
+  To keep the purpose cleat and concise, I created two inputs for username and password.
+  I also created a simple login button that will be at least 44px.
+  Topic: Touch Targets
+  Sketch: 1
