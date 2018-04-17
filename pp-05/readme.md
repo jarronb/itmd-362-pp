@@ -15,8 +15,8 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://cameronmoll.com/downloads/Web_Accessibility_Checklist.pdf
+2. https://cs.unibg.it/verdicch/usability_checklist.pdf
 
 * Your own condensed, ten-item must-have usability checklist:
 
