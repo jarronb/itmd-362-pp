@@ -20,13 +20,19 @@ your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Navigation labels are clear and concise
+2. Site has a custom 404 page
+3. Do not use JavaScript events that radically alter the page or load a
+  new page when fired.
+4. Whenever possible, write descriptive headings and link texts 
+  which can be understood when read out of context (e.g. no “click
+  here” links)
+5. Be sure each element on a page is reachable and can be
+  manipulated via the keyboard.
+6. Separate structure from presentation and use proper markup for
+  that structure. For example, mark up lists as lists (<ul>, <ol>, <dl>) rather
+  than text with a <br> tag after each list item.
+7. Styles and colors are consistent
+8. Main navigation is easily accessible
+9. Company logo is linked to homepage
+10. Home-page is digestible in 5 seconds
