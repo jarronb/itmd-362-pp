@@ -27,6 +27,7 @@ repository correctly.
 3. You can now change directories into `itmd-362-pp` and then the `pp-00` directory, where you
    should now have this file, `readme.md` on your local computer. Open the file in your editor,
    and write below the URL to your fork of the GitHub repository, and the add and commit:
+   https://github.com/jarronb/itmd-362-pp
 
    My Production Problems repository URL:
 
