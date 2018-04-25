@@ -30,6 +30,7 @@ repository correctly.
    https://github.com/jarronb/itmd-362-pp
 
    My Production Problems repository URL:
+   https://github.com/itmd-362-2018/itmd-362-pp
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
